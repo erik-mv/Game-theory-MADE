@@ -1,1 +1,1 @@
-# Game-theory-MADE
+# Курс по теории игр MADE
